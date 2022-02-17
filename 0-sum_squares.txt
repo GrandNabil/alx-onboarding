@@ -1,0 +1,7 @@
+1. Declare an integer variable called N1
+2. Declare an integer variable called N2 
+3. Declare an integer variable called Sum
+4. set sum to 0
+5. read N1, N2
+6. sum = N1*N1 + N2*N2
+7. print sum
